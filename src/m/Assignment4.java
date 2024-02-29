@@ -7,6 +7,17 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+
+/**
+ * @author Clinio Marcelino<br>
+ * 
+ * @version 1.0
+ * @date Feb 29 2024
+ * 
+ * This class was made to read files that have numbers separated by " "(spaces) and create a two dimensional array.
+ * Also some methods to find some things in these or other integers two dimensional arrays.
+ * 
+ */
 public class Assignment4 {
 
 	/**
